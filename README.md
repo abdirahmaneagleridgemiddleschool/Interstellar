@@ -9,7 +9,7 @@
 > [!IMPORTANT]
 > If you fork this project, consider giving it a star in the original repository!
 
-**Join Our [Discord Community](https://discord.gg/interstellar) for support, more links, and an active community!**
+**Join Our [Discord Community](https:N//discord.gg/interstellar) for support, more links, and an active community!**
 
 ## Features
 
